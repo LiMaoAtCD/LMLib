@@ -1,0 +1,22 @@
+{
+  "name": "LMLib",
+  "version": "0.1.0",
+  "summary": "创建私有库",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/limao/LMLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "limao": "morning@thecover.co"
+  },
+  "source": {
+    "git": "https://github.com/limao/LMLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LMLib/Classes/**/*"
+}

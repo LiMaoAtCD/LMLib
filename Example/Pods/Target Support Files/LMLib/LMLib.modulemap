@@ -1,0 +1,6 @@
+framework module LMLib {
+  umbrella header "LMLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
